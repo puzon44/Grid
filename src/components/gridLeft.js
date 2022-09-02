@@ -55,7 +55,7 @@ export default function GridLeft() {
             <img src={Images[5].Image6} alt="sds" />
             <div className="image__description">
               <h3 className="number-overlap">#6</h3>
-              <p className="text-overlap">lorem3</p>
+              <p className="text-overlap">Lorem, ipsum dolor.</p>
             </div>
           </div>
         </div>
